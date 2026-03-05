@@ -1,3 +1,8 @@
+--[[
+Not_Lowest
+Delinquent Studios LLC
+]]
+
 if CLIENT then
 
 include("an_advert_config.lua")

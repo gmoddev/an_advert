@@ -1,3 +1,8 @@
+--[[
+Not_Lowest
+Delinquent Studios LLC
+]]
+
 if not SERVER then
     return
 end
