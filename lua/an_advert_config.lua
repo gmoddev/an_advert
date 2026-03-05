@@ -2,11 +2,11 @@ ANAdvert = ANAdvert or {}
 
 ANAdvert.Config = {
 
-    AdvertCooldown = 30,      -- seconds between adverts
+    AdvertCooldown = 1.5,      -- seconds between adverts
     SpamLimit = 5,            -- attempts before mute
     SpamMuteTime = 120,       -- mute duration in seconds
 
-    an_advert_cost = 0        -- Cost
+    an_advert_cost = 0,        -- Cost
 
     AdminBypass = true,       -- admins ignore cooldown
 
